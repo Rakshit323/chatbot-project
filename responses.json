@@ -1,0 +1,84 @@
+{
+    "welcome": "Hello! I'm your website assistant. How can I help you today?",
+
+    "website_types": [
+    "Business Website",
+    "Portfolio Website",
+    "E-commerce Website",
+    "Blog Website",
+    "Educational Website",
+
+    "Restaurant Website",
+    "Cafe Website",
+    "Bakery Website",
+    "Hotel Website",
+    "Resort Website",
+    "Travel Website",
+    "Tourism Website",
+
+    "School Website",
+    "College Website",
+    "University Website",
+    "Educational Website",
+    "Learning Platform",
+
+    "Hospital Website",
+    "Clinic Website",
+    "Dental Clinic Website",
+    "Healthcare Website",
+
+    "Gym Website",
+    "Fitness Website",
+    "Yoga Studio Website",
+    "Sports Club Website",
+
+    "Real Estate Website",
+    "Construction Company Website",
+    "Interior Design Website",
+    "Architecture Website",
+
+    "Law Firm Website",
+    "Consulting Website",
+    "Finance Website",
+    "Insurance Website",
+    "Accounting Website",
+
+    "NGO Website",
+    "Charity Website",
+    "Community Website",
+
+    "Photography Website",
+    "Wedding Website",
+    "Event Website",
+    "Music Website",
+    "Artist Portfolio",
+
+    "News Website",
+    "Magazine Website",
+    "Forum Website",
+    "Membership Website",
+
+    "Job Portal",
+    "Marketplace",
+    "Food Delivery Website",
+    "Booking Website",
+
+    "Startup Website",
+    "Agency Website",
+    "Landing Page",
+    "Personal Website",
+    "Custom Website"
+ ] , 
+
+    "questions": {
+        "website_type": "What type of website do you need?\n\nYou can choose one of the quick options or simply type a website type.",
+        "business_name": "What is your business name?",
+        "requirements": "Please describe your project requirements.",
+        "budget": "What is your approximate budget?",
+        "name": "May I know your name?",
+        "email": "Please enter your email address.",
+        "phone": "Please enter your phone number."
+    },
+
+    "thank_you": "Thank you! Our team will contact you soon."
+}
